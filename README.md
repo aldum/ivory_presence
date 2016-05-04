@@ -1,4 +1,3 @@
-pyreader
+Ivory presence
 ========
-
-Python RSS feed reader
+RSS feed reader aiming to implement the look and feel of defunct Google Reader.
